@@ -11,5 +11,5 @@ pc.script.create('test', function (context) {
         },
     };
 
-    return Tank;
+    return Test;
 });
